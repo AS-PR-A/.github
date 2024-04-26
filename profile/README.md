@@ -1,14 +1,46 @@
 <div align="center">
-<h1>🐾 ASPRA 🐾</h1>
+<h1>🐾 ASPRA: Rescatando y uniendo a través de la tecnología 🐾</h1>
  
 ![imagen](https://github.com/JDGA1997/ASPRA-Movil/assets/105946879/e1aedf58-d0d0-49da-8b61-d08e8a653fb6)
 
 
 <br>
 
-## ⏮️[Repositorio ASPRA WEB](https://github.com/AS-PR-A/ASPRA-Web)⏮️
+> ## ¿Alguna una vez perdiste o encontraste un animal? *ASPRA* es tu solución.
 
-## ⏮️[Repositorio ASPRA Movil](https://github.com/AS-PR-A/ASPRA-Movil)⏮️
+> ### ASPRA es una plataforma web y móvil que te permite:
+
+    🔹 Reportar animales perdidos y abandonados para que sean rescatados.
+    🔹 Realizar un seguimiento de los animales rescatados, incluyendo fotos y videos.
+    🔹 Encontrar tu mascota perdida o adoptar un nuevo compañero.
+
+> ### ¿Cómo funciona ASPRA?
+
+    🔹 Reporta un animal: Ingresa a la web o aplicación ASPRA y describe al animal que has encontrado o perdido. Incluye fotos, videos y cualquier otra información relevante.
+    🔹 Seguimiento y rescate: ASPRA se encarga de difundir la información del animal y coordinar su rescate con las autoridades y organizaciones locales. Recibirás actualizaciones sobre el estado del animal.
+    🔹 Adopción responsable: Si buscas un nuevo amigo peludo, ASPRA te permite encontrar animales en adopción. Puedes filtrar tu búsqueda por raza, edad, tamaño y otros criterios.
+
+> ### ASPRA Móvil: Ayuda al alcance de tu mano 🤳
+
+Descarga la aplicación [ASPRA Móvil]() para reportar animales, realizar un seguimiento de los rescates y buscar animales en adopción, ¡todo desde tu teléfono!
+
+> ### Unite a la comunidad ASPRA
+
+Visita [nuestra web](https://ezmant.github.io/Proyecto_FullStack_ISPC/Maqueta/Vistas/index.html) o descarga la aplicación [ASPRA Móvil]() y ayúdanos a crear un mundo donde cada animal tenga un hogar amoroso. 🐾
+
+> ### Nuestros logros
+
+    ✅ Cumplimos los objetivos del año anterior creando todas las páginas web necesarias.
+    ✅ Adaptamos la web a Angular para mejorar la experiencia del usuario.
+    ✅ Enfocamos nuestros esfuerzos en la creación de un sistema de ecommerce para la adopción de animales.
+    ✅ Desarrollamos ASPRA Móvil, una aplicación complementaria para dispositivos Android.
+
+> # *ASPRA: Una iniciativa que salva vidas y crea familias.* 🐾
+
+
+## ⏩ 🖥️[Repositorio ASPRA WEB](https://github.com/AS-PR-A/ASPRA-Web)🖥️ ⏪
+
+## ⏩ 📱[Repositorio ASPRA Movil](https://github.com/AS-PR-A/ASPRA-Movil)📱 ⏪
 
 <br>
 
