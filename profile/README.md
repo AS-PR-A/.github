@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🐾 ASPRA: Rescatando y uniendo a través de la tecnología 🐾</h1>
  
-![imagen](https://github.com/JDGA1997/ASPRA-Movil/assets/105946879/e1aedf58-d0d0-49da-8b61-d08e8a653fb6)
+![imagen](https://raw.githubusercontent.com/AS-PR-A/ASPRA-Web/main/Frontend/animalesCommerce/src/assets/img/ASPRA.png)
 
 
 <br>
@@ -61,6 +61,7 @@ Visita [nuestra web](https://ezmant.github.io/Proyecto_FullStack_ISPC/Maqueta/Vi
 ## Pagina Web 🖥️
 
 ### Front-End ⚛️
+
 HTML5
 
 CSS3
@@ -72,6 +73,7 @@ Bootstrap
 Angular
 
 ### Back-End 💻
+
 Python para arquitectura MVC y POO.
 
 Django
@@ -79,6 +81,7 @@ Django
 Typescript
 
 ### Base de Datos 📚
+
 MySQL
 
 <br>
@@ -86,12 +89,15 @@ MySQL
 ## Aplicacion movil para Android📱
 
 ### Lenguaje de programación ☕
+
 Java
 
 ### IDE utilizado📲
+
 Android Studio
 
 ### Base de Datos 📚
+
 SQLite
 
 
