@@ -42,6 +42,10 @@ Visita [nuestra web](https://ezmant.github.io/Proyecto_FullStack_ISPC/Maqueta/Vi
 
 ## ⏩ 📱[Repositorio ASPRA Movil](https://github.com/AS-PR-A/ASPRA-Movil)📱 ⏪
 
+### Video estilo [Elevator Pitch](https://youtu.be/w3gHZfcjmjA) para las materias de Emprendedurismo - Tecnología y Desarrollo
+
+![imagen](https://github.com/AS-PR-A/ASPRA-Movil/assets/105946879/9da899cd-5e10-4808-b8dd-8dfb4c9ccf73)
+
 <br>
 
 <h1 align="center"> 
@@ -257,6 +261,5 @@ Android Studio
 ### Base de Datos 📚
 
 SQLite
-
 
 </div>
